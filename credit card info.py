@@ -68,4 +68,4 @@ class DataLoader:
             print(f'Column {column} does not exist.')
 
 data_loader = DataLoader()
-data_loader.load_csv('"C:\Users\user\PycharmProjects\pythonProject2\.venv\Dev_data_to_be_shared.csv"')
+data_loader.load_csv("C:\Users\user\PycharmProjects\pythonProject2\.venv\high_popularity_spotify_data.csv")
